@@ -8,16 +8,17 @@
 
 ##     
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baranacikgoz)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baran-acikgoz/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![StackoverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/baran.aacikgoz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/baran.aacikgoz/)
 
 
 
 ## 🛠️ My toys
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="330" height="auto" />
+<img src="assets/code.gif" alt="side Image" align="right" width="330" height="auto" />
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -37,15 +38,20 @@
 ##  
 ### 📈 Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&theme=dark)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baranacikgoz&theme=react)
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&show_icons=true&count_private=true&theme=react&include_all_commits=true&line_height=40)
 
-
-##  
-### More
+##   
+### ✨ More
 - 🎸 Electric guitar player
-- 
-- 
+##   
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/cdduqku4tcgrzsrdpitibjwlm)
+
+[<img src="https://spotify-now-playing-liard.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cdduqku4tcgrzsrdpitibjwlm)
+
+
+<!--
 <a href="https://github.com/mitp7/Fylo-LandingPage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Fylo-LandingPage&show_icons=true&line_height=50&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Fylo-LandingPage" />
 </a>
@@ -57,8 +63,4 @@
 <a href="https://github.com/mitp7/Sort-Recycle-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitp7&repo=Sort-Recycle-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Sort-Recycle-System" /> 
 </a>
-
-##
-### The Last Song I've played 🎧
-
-[<img src="https://spotify-now-playing-liard.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cdduqku4tcgrzsrdpitibjwlm)
+-->
