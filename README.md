@@ -39,8 +39,8 @@
 ##  
 ### 📈 Stats
 
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&show_icons=true&count_private=true&theme=react&include_all_commits=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baranacikgoz&theme=react&layout=compact)
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baranacikgoz&theme=github_dark&layout=compact)
 
 ##   
 ### ✨ More
