@@ -40,6 +40,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&theme=dark)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&theme=dark)
 
+
 ##  
 ### More
 - 🎸 Electric guitar player
@@ -59,4 +60,5 @@
 
 ##
 ### The Last Song I've played 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cdduqku4tcgrzsrdpitibjwlm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=cdduqku4tcgrzsrdpitibjwlm&redirect=true)
+
+[<img src="https://spotify-now-playing-liard.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cdduqku4tcgrzsrdpitibjwlm)
