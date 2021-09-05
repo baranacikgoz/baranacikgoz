@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Baran Açıkgöz</h1>
+<h1 align="center">Hi, I'm Baran</h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science%20|%20+Engineering+Student;Data+Science%20|%20Machine+Learning&center=true&width=500&height=50"></a>
@@ -39,8 +39,8 @@
 ##  
 ### 📈 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baranacikgoz&theme=react)
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&show_icons=true&count_private=true&theme=react&include_all_commits=true&line_height=40)
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranacikgoz&show_icons=true&count_private=true&theme=react&include_all_commits=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baranacikgoz&theme=react&layout=compact)
 
 ##   
 ### ✨ More
