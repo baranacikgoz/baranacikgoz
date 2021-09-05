@@ -19,7 +19,7 @@
 
 
 ## 🛠️ My toys
-<img src="assets/code.gif" alt="side Image" align="right" width="330" height="auto" />
+<img src="assets/code.gif" alt="side Image" align="right" width="325" height="auto" />
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
